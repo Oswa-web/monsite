@@ -9,6 +9,8 @@ h2{
 body{
 	text-align: center;
 }
-body{
-  background-image: url(space_fond_ecran.jpg);
+<style>
+body {
+  background-image: url('space_fond_ecran.jpg');
 }
+</style>
