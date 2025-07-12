@@ -11,3 +11,8 @@ body {
 body{
 	text-align: center;
 }
+<style>
+p {
+  background-image: url('image/space_fond_ecran');
+}
+</style>
