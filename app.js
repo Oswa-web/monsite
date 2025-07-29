@@ -6,11 +6,14 @@ alert(" Bienvenue sur ma page !");
 
 let name = prompt("Quel est ton nom?");
 
-alert ( "Coucou " +name)
-let age = prompt(" Quel est ton âge ? ") 
-if  ( age > 14 ){ alert("Bienvenue à Jump In Tech !")
-} else { alert("Revient dans quelques années <3") 
+let montitre = document.getElementById ("titre");
+montitre.innerText = "MOONLIGHT DE "+ name;
+
+if (name == "Oswa") {
+	alert("COMME MOI SUIUIUUIIUIUIUIUIUIU LETTTSS GOO");
+	montitre.style.color = "#1a44af" ; 
+} else { 
+montitre.style.color = "#FCEF91"
 }
 
-
-let MOONLIGHT = document.getElementById ("TITRE");
+alert ( "Coucou " +name)

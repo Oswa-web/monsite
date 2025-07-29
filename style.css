@@ -1,15 +1,16 @@
 h1{
 	color: #FCEF91;
   font size: 100px ;
+  text-align: center;
 }
 h2{
   color: #FCEF91;
   font size: 75px;
+  text-align: center;
 }
-body{
-	text-align: center;
-}
-<style
+
 body {
-  background-image: url('image/space_fond_ecran1.png');
-}>
+  background-image: url('image/space_fond_ecran1.jpg');
+} 
+button { 
+  
