@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 console.log("coucou");
 console.log(3+2)
 
@@ -17,3 +18,6 @@ montitre.style.color = "#FCEF91"
 }
 
 alert ( "Coucou " +name)
+=======
+let MOONLIGHT = document.getElementById ("TITRE");
+>>>>>>> 13932e08ba252c646eef29dc715fd47f9c5c4c6a
